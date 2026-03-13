@@ -9,6 +9,8 @@
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-enabled-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
+![Release](https://img.shields.io/github/v/release/USERNAME/REPO)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO)
 
 ---
 
